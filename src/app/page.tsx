@@ -196,7 +196,7 @@ export default function Home() {
                 <div className="relative h-28 w-28 rounded-full overflow-hidden border-2 border-zinc-100 dark:border-zinc-800 shadow-inner bg-zinc-50">
                   <Image
                     src="/profile.png"
-                    alt="Derin Aksu"
+                    alt="Semih Şener"
                     fill
                     sizes="(max-width: 112px) 100vw, 112px"
                     priority
@@ -205,14 +205,14 @@ export default function Home() {
                 </div>
                 <div className="space-y-1">
                   <h1 className="text-lg font-bold text-zinc-900 dark:text-zinc-50">
-                    Derin Aksu
+                    Semih Şener
                   </h1>
                   <p className="text-xs font-semibold text-zinc-500 dark:text-zinc-400">
-                    Yazılım Geliştirici & Ürün Danışmanı
+                    Kişisel Randevu & Takvim
                   </p>
                 </div>
                 <p className="text-xs text-zinc-650 dark:text-zinc-350 leading-relaxed max-w-sm md:max-w-none">
-                  Merhaba! Teknolojik ürün tasarımı, modern yazılım mimarileri, Next.js ve yapay zeka entegrasyonları konularında danışmanlık yapıyorum. Benimle görüşmek için takvimden uygun saati seçebilirsiniz.
+                  Merhaba! Benimle görüşmek, kahve içmek veya herhangi bir konuyu konuşmak için aşağıdaki takvim üzerinden uygun bir gün ve saat seçerek randevu oluşturabilirsiniz.
                 </p>
               </div>
 
